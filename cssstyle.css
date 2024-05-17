@@ -1,0 +1,64 @@
+header,
+footer {
+  margin: 0.2em;
+  padding: 0.5em;
+  background-color: pink;
+  text-align: center;
+}
+
+h1 {
+  font-family: cursive;
+  font-size: 50px;
+}
+
+nav {
+  margin: 0.2em;
+  min-height: 0.5em;
+  padding: 1em;
+
+  background-color: palevioletred;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  font-family: cursive;
+  font-style: italic;
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: plum;
+}
+
+li a:hover {
+  background-color: powderblue;
+  ;
+}
+
+.column {
+  margin: 0.2em;
+  min-height: 8em;
+  padding: 1em;
+  background-color: lavenderblush;
+}
+
+h2 {
+  font-family: cursive;
+  font-size: 20px;
+}
+
+p {
+  font-family: cursive;
+  font-size: 18px;
+}
